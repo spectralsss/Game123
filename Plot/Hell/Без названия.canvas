@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"97537d3972ef4090","type":"text","text":"2048 год - ИИ создал тюрьму-ад где каждый человек встает перед судом в самом аду, стоя бесконечную очередь таких же мучеников","x":-1020,"y":-680,"width":320,"height":200,"color":"1"},
+		{"id":"3751717d7aab4aaf","type":"file","file":"Game/Image/Referance/Reference.png","x":-660,"y":-920,"width":219,"height":400}
+	],
+	"edges":[
+		{"id":"170afce662397f99","fromNode":"97537d3972ef4090","fromSide":"bottom","toNode":"3751717d7aab4aaf","toSide":"bottom"}
+	]
+}
